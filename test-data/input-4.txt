@@ -1,0 +1,2 @@
+GT4500,1,0,1,0 # Create a ship with stocked torpedo stores that never fail
+TORPEDO,ALL # Tries to fire ALL while both stores are stocked
